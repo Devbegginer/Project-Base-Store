@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcia Passos Moda</title>
+    <link rel="stylesheet" href="store_style.css">
+    <link rel="shortcut icon" href="/img/favicon/image.png" type="logo/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-yadaYada..." crossorigin="anonymous" referrerpolicy="no-referrer"/></head>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" rel="stylesheet">
+<body>
+    <!-- Section = line above the logo -->
+    <section id="header"> 
+         <!-- Logo -->
+          <a href="#"><img src="/img/img-store/img/logo.png" class="logo" alt="logo of store"></a>
+          <!-- creating nav links -->
+          <div>
+            <ul id="navbar">
+                <li><a href="store_site.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <!-- class active = give the home link always green --> 
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About us</a></li>
+                <li><a class="active" href="contact.html">Contact</a></li>
+                <li id="lg-bag"><a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a></li> 
+                <a href="#" id="close"><i class="fa-solid fa-xmark" ></i></i></a>
+            </ul>
+          </div>
+          <!-- creating mobile tags -->
+           <!-- mobile ICON X -->
+            <div id="mobile">
+                <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+                <i id="bar" class="fas fa-outdent"></i>
+            </div>
+    </section>
+    <!-- section = banner principal -->
+    <section id="page-header" class="about-header">
+        <h2>#Let`s Talk</h2>
+        <p>LEAVE A MESSAGE, We love to hear from you! </p>
+    </section>
+    <!-- Section = create two section. 1 - for map-->
+    <section id="contact-details" class="section-p1">
+            <div class="details">
+                <span>Get In Touch</span>
+                <h2>Visit one of our agency locations or contact us today</h2>
+                <h3>Head Office</h3>
+                <!-- icons and info -->
+                <div>
+                    <li>
+                        <i class="fas fa-map"></i>
+                        <p>56 GlassFord Street Glasgow G1 1UL NEW York</p>
+                    </li>
+                    <li>
+                        <i class="fas fa-envelope"></i>
+                        <p>contact@example.com</p>
+                    </li>
+                    <li>
+                        <i class="fas fa-phone-alt"></i>
+                        <p>contact@example.com</p>
+                    </li>
+                    <li>
+                        <i class="fas fa-clock"></i>
+                        <p>Monday to Saturday: 9:00 AM to 16:00 PM </p>
+                    </li>
+                </div>
+            </div>
+            <!-- MAP -->
+            <div class="map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3892.208245481556!2d-38.32560092397252!3d-12.699826904405747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x71669d587d7a52b%3A0x7b152d28e29a9a9e!2sCentro%20Comercial%20de%20Cama%C3%A7ari!5e0!3m2!1sen!2sbr!4v1747872536486!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+    </section>
+    <!-- 2 -Section =  form-details  -->
+    <section id="form-details">
+        <form action="">
+            <span>Leave a Message</span>
+            <h2>We Love to Hear From You</h2>
+            <input type="text" placeholder="Your Name">
+            <input type="text" placeholder="E-mail"> 
+            <input type="text" placeholder="subject">
+            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+            <button class="normal">Submit </button>
+        </form>
+        <!-- people in the corner of the screen  -->
+         <div class="people">
+            <div>
+            <img src="/img/img-store/img/people/1.png" alt="senior marketing image face">
+            <p><span>Jonh Doe</span> Senior Marketing Manager <br> Phone: + 000 123 000 77 88 <br> E-mail: contact@example.com</p>
+         </div>
+         <div>
+            <img src="/img/img-store/img/people/2.png" alt="senior marketing image face">
+            <p><span>Willian Smith</span> Senior Marketing Manager <br> Phone: + 000 123 000 77 88 <br> E-mail: contact@example.com</p>
+         </div>         <div>
+            <img src="/img/img-store/img/people/3.png" alt="senior marketing image face">
+            <p><span>Emma Stone</span> Senior Marketing Manager <br> Phone: + 000 123 000 77 88 <br> E-mail: contact@example.com</p>
+         </div>
+    </section>
+    <!-- copy newslette section from store_html -->
+    <!-- lead acquisition -->
+    <section id="newsletter" class="section-p1 section-m1">
+        <div class="newstext">
+            <h4>Sign Up For Newsletters</h4>
+            <p>Get E-mail updates about our latest shop and <span>Special Offers.</span></p>
+        </div>
+        <div class="form">
+            <input type="text" placeholder="Your Email Adress">
+            <!-- Global Styling -->
+            <button class="normal">Sign Up</button>
+          </div>
+    </section>
+
+    <!-- last Section footer website-->
+    <footer class="section-p1">
+        <div class="col"> 
+            <!-- logo site -->
+            <img class="logo" src="/img/img-store/img/logo.png" alt="logo-store">
+            <!-- Adding padding here! -->
+            <h4>Contact</h4>
+            <!-- Info loja -->
+            <p><strong>Adress: </strong>562 Wellingtom Road,Street 32,San Franscisco</p>
+            <p><strong>Phone: </strong>+01 2222 365 / +91 01 2345 - 6789</p>
+            <p><strong>Hour: </strong> 10:00 - 18:00, Mon - Sat</p>
+            <!-- Socials Midia -->
+            <div class="follow">
+                <h4>Follow us</h4>
+                <div class="icon">
+                    <!-- Icons Socials Midia -->
+                     <!-- Change the Background Color -->
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-pinterest"></i>
+                    <i class="fab fa-youtube"></i>
+                </div>
+            </div>
+        </div>
+        <!-- Creating the First Column = About US -->
+         <div class="col">
+            <h4>About</h4>
+            <a href="#">About us</a>
+            <a href="#">Delivery Information</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Contact Us</a>
+         </div>
+         <!-- creating the Second Column = My account -->
+         <div class="col">
+            <h4>My Account</h4>
+            <a href="#">Sign In</a>
+            <a href="#">View Cart</a>
+            <a href="#">My WishList</a>
+            <a href="#">Track My Order</a>
+            <a href="#">Help</a>
+         </div>
+         <!-- Creating the Third Column = install Apps -->
+         <div class="col_install">
+            <h4>Install App</h4>
+            <p>From App Store or Google Play</p>
+            <!-- two differents image -->
+            <div class="row">
+                <!-- first image -->
+                <img src="/img/img-store/img/pay/app.jpg" alt="">
+                <!-- second image -->
+                <img src="/img/img-store/img/pay/play.jpg" alt="">
+            </div>
+            <!-- paragraph -->
+            <p>Secured Payment Gateways</p>
+             <!-- third Image -->
+            <img src="/img/img-store/img/pay/pay.png" alt="">
+        </div>
+        <div class="copyright">
+            <p>&copy; 2025, Caio Passos - Project Store</p>
+        </div>
+    </footer>
+    <!-- I don`t know why this code doesn`t work down the third column-->
+    <script src="script.js"></script>
+</body>
+</html>  

@@ -1,0 +1,373 @@
+    <!-- Section = T-shirts of Store -->
+    <section id="product1" class="section-p1">
+        <div class="pro-container">
+            <!-- paste the div pro seven times -->
+            <div class="pro" onclick="window.location.href='description_products.html';">
+                <img  src="/img/img-store/img/products/f1.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 2 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/f2.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 3 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/f3.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 4 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/f4.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 5 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/f5.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 6 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/f6.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 7 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/f7.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 8 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/f8.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- paste the div pro seven times -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n1.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 2 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n2.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 3 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n3.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 4 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n4.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 5 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n5.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 6 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n6.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 7 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n7.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+            <!-- clothe 8 -->
+            <div class="pro">
+                <img  src="/img/img-store/img/products/n8.jpg" alt="t-shits and clothes">
+                <!-- div des = part of description -->
+                <div class="des">
+                    <!-- Span = Brandname -->
+                    <span>Adidas</span>
+                    <!-- h5 = Clothe`s name -->
+                    <h5>Cartoon Astrounaut T-Shirts</h5>
+                    <!-- div star = here get the star or avaliation -->
+                    <div class="star"> 
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <!-- this h4 = Price T-shirt -->
+                    <h4>$78</h4>
+                </div>
+                <!-- creating the cart image -->
+                <a href="#"><i class="ri-shopping-cart-line cart"></i></a>
+            </div>
+        </div>
+    </section>
